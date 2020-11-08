@@ -1,0 +1,9 @@
+maps/fy_sonic.bsp
+maps/fy_sonic.res
+gfx/env/gg_green_hillup.tga
+gfx/env/gg_green_hilldn.tga
+gfx/env/gg_green_hilllf.tga
+gfx/env/gg_green_hillrt.tga
+gfx/env/gg_green_hillft.tga
+gfx/env/gg_green_hillbk.tga
+models/palm_01a.mdl
